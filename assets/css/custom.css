@@ -1,0 +1,16 @@
+::-moz-selection { /* Code for Firefox */
+  color: #2196F3;
+  background: #132d47;
+}
+
+::selection {
+  color: #2196F3;
+  background: #132d47;
+}
+
+.stickyfooter{
+}
+
+.fullwidth{
+	width: 100%
+}

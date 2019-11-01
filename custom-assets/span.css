@@ -1,0 +1,32 @@
+.span-danger,.span-orange,.span-success,.span-warning, .span-grey
+{
+	padding:5px 8px;
+	border-radius: 2px;
+	color:#fff
+	font-size: inherit;
+}
+
+.span-danger {
+	background-color:#F44336;
+}
+
+.span-warning{
+	background-color:#f6bb42;
+}
+
+.span-orange{
+	background-color:#FF5722;
+}
+
+.span-success{
+	background-color:#4CAF50;
+}
+
+.span-grey{
+	background-color:#fff;
+	color:#000;
+}
+
+.span-sm{
+	font-size:13px
+}
